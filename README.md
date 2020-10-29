@@ -1,3 +1,3 @@
 # React_Moviedb
 Movie Database Using Omdb Api
-<strong>joshuaschist-moviedb.netlify.app</strong>
+<strong>https://joshuaschist-moviedb.netlify.app</strong>
